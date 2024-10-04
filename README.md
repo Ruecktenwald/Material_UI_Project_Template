@@ -1,3 +1,4 @@
+```
 project-template/
 ├── backend/
 │ ├── app/
@@ -26,3 +27,4 @@ project-template/
 ├── requirements.txt
 ├── yarn.lock
 └── README.md
+```
