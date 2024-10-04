@@ -1,4 +1,3 @@
-
 ```
 data_table_template_app
 ├─ .DS_Store
